@@ -61,7 +61,7 @@ class Registro extends Component {
 
         } else {
 
-            alert("El alumno ya existe")
+            alert("El alumno ya existe en la lista")
         }
 
 }
